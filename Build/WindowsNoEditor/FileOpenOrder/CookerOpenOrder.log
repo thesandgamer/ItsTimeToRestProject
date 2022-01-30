@@ -26,53 +26,53 @@
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BPI_Transformateur.uexp" 25
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 26
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 27
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/EnumFoodType.uasset" 28
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/EnumFoodType.uexp" 29
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Enum_RessourceState.uasset" 30
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Enum_RessourceState.uexp" 31
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/default.uasset" 32
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/default.uexp" 33
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 34
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 35
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Bp_P_Spawner.uasset" 36
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Bp_P_Spawner.uexp" 37
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Mushroom_WIP_01.uasset" 38
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Mushroom_WIP_01.uexp" 39
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/CutMushroom_WIP_01.uasset" 40
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/CutMushroom_WIP_01.uexp" 41
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/BP_P_Ressources.uasset" 42
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/BP_P_Ressources.uexp" 43
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04_PhysicsAsset.uasset" 44
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04_PhysicsAsset.uexp" 45
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Group31658Mat.uasset" 46
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Group31658Mat.uexp" 47
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_02_Skeleton.uasset" 48
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_02_Skeleton.uexp" 49
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04.uasset" 50
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04.uexp" 51
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.uasset" 52
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.uexp" 53
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.ubulk" 54
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.uasset" 55
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.uexp" 56
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.ubulk" 57
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.uasset" 58
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.uexp" 59
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.ubulk" 60
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.uasset" 61
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.uexp" 62
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.ubulk" 63
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.uasset" 64
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.uexp" 65
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.ubulk" 66
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.uasset" 67
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.uexp" 68
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.ubulk" 69
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.uasset" 70
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.uexp" 71
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.ubulk" 72
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Mat_Chara.uasset" 73
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Mat_Chara.uexp" 74
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.uasset" 28
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.uexp" 29
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Roughness.ubulk" 30
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.uasset" 31
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.uexp" 32
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal_OpenGL.ubulk" 33
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.uasset" 34
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.uexp" 35
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Normal.ubulk" 36
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.uasset" 37
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.uexp" 38
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Mixed_AO.ubulk" 39
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.uasset" 40
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.uexp" 41
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Metallic.ubulk" 42
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.uasset" 43
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.uexp" 44
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_Height.ubulk" 45
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.uasset" 46
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.uexp" 47
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Chara_albedo.ubulk" 48
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Mat_Chara.uasset" 49
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara/Texture/Mat_Chara.uexp" 50
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04_PhysicsAsset.uasset" 51
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04_PhysicsAsset.uexp" 52
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Group31658Mat.uasset" 53
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Group31658Mat.uexp" 54
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_02_Skeleton.uasset" 55
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_02_Skeleton.uexp" 56
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04.uasset" 57
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Chara_WIP_04.uexp" 58
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/EnumFoodType.uasset" 59
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/EnumFoodType.uexp" 60
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Enum_RessourceState.uasset" 61
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Enum_RessourceState.uexp" 62
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Mushroom_WIP_01.uasset" 63
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Mushroom_WIP_01.uexp" 64
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/CutMushroom_WIP_01.uasset" 65
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/CutMushroom_WIP_01.uexp" 66
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/default.uasset" 67
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/default.uexp" 68
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 69
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 70
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Bp_P_Spawner.uasset" 71
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Bp_P_Spawner.uexp" 72
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/BP_P_Ressources.uasset" 73
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/BP_P_Ressources.uexp" 74
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/player/CH_Player.uasset" 75
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/player/CH_Player.uexp" 76
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/player/ThirdPersonGameMode.uasset" 77
@@ -201,10 +201,10 @@
 "../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 200
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 201
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 202
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 203
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 204
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 205
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 204
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 206
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 207
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 208
 "../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 209
@@ -441,10 +441,10 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 440
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 441
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 442
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 443
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 444
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 445
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 446
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 445
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 446
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 447
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 448
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 449
@@ -502,151 +502,151 @@
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Cauldron_WIP_03.uexp" 501
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Berry_WIP_01.uasset" 502
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Berry_WIP_01.uexp" 503
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 504
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 505
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 506
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 507
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 508
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 509
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 510
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 511
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 512
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 513
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 514
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 515
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uexp" 516
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 517
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uexp" 518
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 519
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uexp" 520
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 521
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uexp" 522
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 523
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uexp" 524
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 525
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uexp" 526
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/KillParticles.uasset" 527
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/KillParticles.uexp" 528
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 529
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 530
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 531
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 532
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 533
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uexp" 534
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 535
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 536
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 537
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 538
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 539
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 540
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 541
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 542
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 543
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uexp" 544
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 545
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uexp" 546
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 547
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uexp" 548
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 549
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 550
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uasset" 551
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uexp" 552
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 553
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 554
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 555
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 556
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 557
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 558
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 559
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 560
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 561
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uexp" 562
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 563
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ReflectVector.uexp" 564
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 565
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 566
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/CollisionEvent.uasset" 567
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/CollisionEvent.uexp" 568
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/ReceiveCollisionEvent.uasset" 569
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/ReceiveCollisionEvent.uexp" 570
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 571
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 572
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uasset" 573
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uexp" 574
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent_V2.uasset" 575
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent_V2.uexp" 576
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Acorn_WIP_02.uasset" 504
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Acorn_WIP_02.uexp" 505
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 506
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 507
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 508
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 509
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 510
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 511
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 512
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 513
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 514
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 515
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 516
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 517
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uexp" 518
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 519
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uexp" 520
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 521
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uexp" 522
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 523
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uexp" 524
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 525
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uexp" 526
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 527
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uexp" 528
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 529
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 530
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/KillParticles.uasset" 531
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/KillParticles.uexp" 532
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 533
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 534
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 535
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 536
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 537
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uexp" 538
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 539
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 540
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 541
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 542
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 543
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 544
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 545
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 546
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 547
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uexp" 548
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 549
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uexp" 550
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 551
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uexp" 552
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 553
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 554
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uasset" 555
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uexp" 556
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 557
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 558
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 559
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 560
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 561
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 562
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 563
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uexp" 564
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 565
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ReflectVector.uexp" 566
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 567
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 568
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/CollisionEvent.uasset" 569
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/CollisionEvent.uexp" 570
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/ReceiveCollisionEvent.uasset" 571
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/ReceiveCollisionEvent.uexp" 572
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 573
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 574
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uasset" 575
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uexp" 576
 "../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 577
 "../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 578
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateDeathEvent.uasset" 579
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateDeathEvent.uexp" 580
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/SetBoolByTimer.uasset" 581
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/SetBoolByTimer.uexp" 582
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateCollisionEvent.uasset" 583
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateCollisionEvent.uexp" 584
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 585
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 586
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 587
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uexp" 588
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent_V2.uasset" 579
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent_V2.uexp" 580
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateDeathEvent.uasset" 581
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateDeathEvent.uexp" 582
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/SetBoolByTimer.uasset" 583
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/SetBoolByTimer.uexp" 584
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateCollisionEvent.uasset" 585
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Events/GenerateCollisionEvent.uexp" 586
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 587
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 588
 "../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 589
 "../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uexp" 590
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 591
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uexp" 592
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 593
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uexp" 594
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 595
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uexp" 596
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 597
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uexp" 598
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 599
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uexp" 600
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 601
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 602
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 603
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uexp" 604
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 605
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uexp" 606
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 607
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 608
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 609
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/Collision.uexp" 610
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 611
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 612
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 613
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 614
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 615
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 616
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 617
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 618
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 619
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 620
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 621
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 622
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 623
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 624
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 625
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uexp" 626
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 627
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 628
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 629
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uexp" 630
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 631
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uexp" 632
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 633
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 634
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 635
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 636
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 637
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 638
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 639
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 640
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 641
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 642
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 643
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 644
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 645
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 646
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 647
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 648
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 591
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uexp" 592
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 593
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uexp" 594
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 595
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uexp" 596
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 597
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uexp" 598
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 599
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uexp" 600
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 601
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uexp" 602
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 603
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 604
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 605
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uexp" 606
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 607
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uexp" 608
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 609
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 610
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 611
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Collision/Collision.uexp" 612
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 613
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 614
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 615
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 616
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 617
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 618
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 619
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 620
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 621
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 622
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 623
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 624
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 625
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 626
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 627
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uexp" 628
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 629
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 630
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 631
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uexp" 632
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 633
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uexp" 634
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 635
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 636
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 637
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 638
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 639
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 640
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 641
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 642
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 643
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 644
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 645
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 646
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 647
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 648
 "../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 649
 "../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 650
 "../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 651
@@ -679,135 +679,135 @@
 "../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 678
 "../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 679
 "../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 680
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 681
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 682
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 683
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 684
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 685
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 686
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVectorFromLinearColorRGB.uasset" 687
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVectorFromLinearColorRGB.uexp" 688
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_pluie.uasset" 689
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_pluie.uexp" 690
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 691
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 692
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 693
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uexp" 694
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 695
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 696
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 697
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 698
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VectorNoiseForce.uasset" 699
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VectorNoiseForce.uexp" 700
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Cylindre_Round.uasset" 701
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Cylindre_Round.uexp" 702
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.uasset" 703
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.uexp" 704
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.ubulk" 705
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SparkFire.uasset" 706
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SparkFire.uexp" 707
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 708
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 709
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 710
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 711
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 712
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 713
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 714
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 715
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 716
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uexp" 717
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 681
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 682
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 683
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 684
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 685
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 686
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 687
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 688
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVectorFromLinearColorRGB.uasset" 689
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVectorFromLinearColorRGB.uexp" 690
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_pluie.uasset" 691
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_pluie.uexp" 692
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 693
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 694
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 695
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uexp" 696
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 697
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 698
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 699
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 700
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VectorNoiseForce.uasset" 701
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VectorNoiseForce.uexp" 702
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Cylindre_Round.uasset" 703
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Cylindre_Round.uexp" 704
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.uasset" 705
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.uexp" 706
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Spark_Fire.ubulk" 707
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SparkFire.uasset" 708
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SparkFire.uexp" 709
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 710
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 711
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 712
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 713
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 714
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 715
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 716
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 717
 "../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 718
 "../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 719
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 720
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uexp" 721
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uasset" 722
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uexp" 723
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 724
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 725
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 726
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uexp" 727
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 728
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 729
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 730
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uexp" 731
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 732
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 733
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.uasset" 734
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.uexp" 735
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.ubulk" 736
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.uasset" 737
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.uexp" 738
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.ubulk" 739
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.uasset" 740
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.uexp" 741
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.ubulk" 742
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_MainFire.uasset" 743
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_MainFire.uexp" 744
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Instances/M_Vfx_FireSmoke_Inst.uasset" 745
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Instances/M_Vfx_FireSmoke_Inst.uexp" 746
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 747
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 748
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 749
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 750
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uasset" 751
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uexp" 752
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.uasset" 753
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.uexp" 754
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.ubulk" 755
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SmokeFire.uasset" 756
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SmokeFire.uexp" 757
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 758
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 759
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Fire.uasset" 760
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Fire.uexp" 761
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uasset" 762
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uexp" 763
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 764
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 765
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveRotationalForcesAndVelocity.uasset" 766
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveRotationalForcesAndVelocity.uexp" 767
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 768
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 769
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Fire.uasset" 770
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Fire.uexp" 771
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uasset" 772
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uexp" 773
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 720
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uexp" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uexp" 723
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uasset" 724
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uexp" 725
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 726
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 727
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 728
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uexp" 729
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 730
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 731
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 732
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uexp" 733
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 734
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 735
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.uasset" 736
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.uexp" 737
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_Fire_02.ubulk" 738
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.uasset" 739
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.uexp" 740
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/Noise02.ubulk" 741
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.uasset" 742
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.uexp" 743
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/noise/blanc.ubulk" 744
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_MainFire.uasset" 745
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_MainFire.uexp" 746
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Instances/M_Vfx_FireSmoke_Inst.uasset" 747
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Instances/M_Vfx_FireSmoke_Inst.uexp" 748
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 749
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 750
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 751
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 752
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uasset" 753
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/WindForce.uexp" 754
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.uasset" 755
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.uexp" 756
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_smoke.ubulk" 757
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SmokeFire.uasset" 758
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Original/M_Vfx_SmokeFire.uexp" 759
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 760
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 761
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Fire.uasset" 762
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/StaticMesh/M_Fire.uexp" 763
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uasset" 764
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uexp" 765
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 766
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 767
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveRotationalForcesAndVelocity.uasset" 768
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveRotationalForcesAndVelocity.uexp" 769
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 770
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 771
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Fire.uasset" 772
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Fire.uexp" 773
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 774
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uexp" 775
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post.uasset" 776
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post.uexp" 777
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post_Inst.uasset" 778
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post_Inst.uexp" 779
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 780
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 781
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 782
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 783
-"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 784
-"../../../Engine/Content/EditorMaterials/GridMaterial.uexp" 785
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_Normal.uasset" 786
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_Normal.uexp" 787
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset" 788
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uexp" 789
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/bol_WIP_03.uasset" 790
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/bol_WIP_03.uexp" 791
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Vider_le_seau.uasset" 792
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Vider_le_seau.uexp" 793
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Nourritures/BP_Seau.uasset" 794
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Nourritures/BP_Seau.uexp" 795
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Bol.uasset" 796
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Bol.uexp" 797
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 798
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 799
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 800
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 801
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 802
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 803
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 804
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 805
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 806
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 807
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Acorn_WIP_02.uasset" 808
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Acorn_WIP_02.uexp" 809
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uasset" 776
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uexp" 777
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post.uasset" 778
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post.uexp" 779
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post_Inst.uasset" 780
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Materials/M_Post_Inst.uexp" 781
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 782
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 783
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 784
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 785
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 786
+"../../../Engine/Content/EditorMaterials/GridMaterial.uexp" 787
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Normal.uasset" 788
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Normal.uexp" 789
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset" 790
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uexp" 791
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/bol_WIP_03.uasset" 792
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/bol_WIP_03.uexp" 793
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Vider_le_seau.uasset" 794
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Vider_le_seau.uexp" 795
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Nourritures/BP_Seau.uasset" 796
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Ressources/Nourritures/BP_Seau.uexp" 797
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Bol.uasset" 798
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Bol.uexp" 799
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 800
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 801
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 802
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 803
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 804
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 805
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 806
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 807
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 808
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 809
 "../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 810
 "../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 811
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/T_BisicCircle.uasset" 812
@@ -817,10 +817,10 @@
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Material/Instances/M_Vfx_Flash_Inst.uexp" 816
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Sparks.uasset" 817
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Systemes/NA_Sparks.uexp" 818
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Trasnfo_fini.uasset" 819
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Trasnfo_fini.uexp" 820
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 821
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 822
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 819
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 820
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Trasnfo_fini.uasset" 821
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Trasnfo_fini.uexp" 822
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_P_Transformateurs.uasset" 823
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_P_Transformateurs.uexp" 824
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/Vfxs/Textures/UI/T_GoodFood.uasset" 825
@@ -878,14 +878,14 @@
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel/Textures/Autel_albedo.ubulk" 877
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel/Textures/Mat_Autel.uasset" 878
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel/Textures/Mat_Autel.uexp" 879
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel_WIP_01.uasset" 880
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel_WIP_01.uexp" 881
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Rot.uasset" 882
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Rot.uexp" 883
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Put_plate_2.uasset" 884
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Put_plate_2.uexp" 885
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Autel_pas_content.uasset" 886
-"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Autel_pas_content.uexp" 887
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Autel_pas_content.uasset" 880
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Autel_pas_content.uexp" 881
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Put_plate_2.uasset" 882
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Put_plate_2.uexp" 883
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Rot.uasset" 884
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/SoundMusics/Bruitages/Rot.uexp" 885
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel_WIP_01.uasset" 886
+"H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/StaticMehs/Autel_WIP_01.uexp" 887
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Hotel.uasset" 888
 "H:/Cretion Jeu/GJ/GGJARTFX2022/ItsTimeToRest/Content/GPE/BP_Hotel.uexp" 889
 "../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 890
